@@ -22,8 +22,8 @@ Hardware:
 - expect installieren 
 
 sudo apt install expect
-**
-- BTLE scan druführen
+- ** BTLE scan druführen
+
 sudo hcitool lescan
 - Wenn alles passt, bekommt mein ein Gerät "CC-RT-BLE" mit einer MAC-Adresse angezeigt.
 - MAC-Adresse und zukünftiger Raum des Thermostats notieren für später
@@ -36,6 +36,7 @@ Basis zur Übertragung der Daten von/zu den Thermostaten ist eine Eq3 Python Lib
 https://github.com/rytilahti/python-eq3bt
 
 - Lib installieren
+
 pip install python-eq3bt
 - Die Datei eq3Controller.py aus dem Repository auf den RPI kopieren, z.B. wie bei mir unter /home/pi/
 - In dieser Datei die MAC's und Räume anpassen (sollten in deinen Notizen von Schritt 1 stehen) :)
@@ -43,6 +44,7 @@ pip install python-eq3bt
 ## 3. Objekte anlegen in IOBroker
 
 - Unter den Objekten in IOBroker folgenden Ordner erstellen:
+
 javascript.0.Thermometer.
 https://github.com/Schnup89/IOBroker_HABPanel_eq3_Thermostat/blob/master/objekte.jpg
 
@@ -61,6 +63,7 @@ https://github.com/Schnup89/IOBroker_HABPanel_eq3_Thermostat/blob/master/objekte
 - Ruft euer HABPanel auf und erstellt zwei Objekte, ein "template" und einen "knob" wie im Bild "HabPanel-Objects.png" zu sehen
 - In das Template-Objekt kommt der Inhalt der Datei "Habpanel-Template" im Repository mit angepasstem Raumnamen!
 - Meine Einstellungen für das "Knob"-Element:
+
 __General__
 Item: javascript.0.Thermometer.Wohnzimmer_Temp
 Min: 5
