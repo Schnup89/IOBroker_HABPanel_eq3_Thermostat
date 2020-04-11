@@ -66,16 +66,28 @@ https://github.com/Schnup89/IOBroker_HABPanel_eq3_Thermostat/blob/master/objekte
 - Meine Einstellungen für das "Knob"-Element:
 
 __General__
+
 Item: javascript.0.Thermometer.Wohnzimmer_Temp
+
 Min: 5
+
 Max: 29
+
 Step: 0,5
+
 Unit: °C
+
 x Show Value
+
 x Show Name
+
 __Bar & Track__
+
 Angles: Start 20, End 340
+
 x Display previous value when dragging
+
 __Misc.__
+
 Font Size: 24
 
