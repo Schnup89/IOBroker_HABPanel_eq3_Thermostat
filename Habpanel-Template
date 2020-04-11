@@ -1,0 +1,12 @@
+<style>
+.progress-bar {
+    background-color: #0db9f0;
+ }
+.progress {
+    height: 10px;
+ }
+</style>
+
+<uib-progressbar style="background-color: #89a" animate="false"
+max="100" value="itemValue('javascript.0.Thermometer.Wohnzimmer_Valve')">
+</uib-progressbar>
