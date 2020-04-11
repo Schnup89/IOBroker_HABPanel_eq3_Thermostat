@@ -22,7 +22,7 @@ Hardware:
 - expect installieren 
 
 sudo apt install expect
-- ** BTLE scan druführen
+- ** BTLE scan durchführen
 
 sudo hcitool lescan
 - Wenn alles passt, bekommt mein ein Gerät "CC-RT-BLE" mit einer MAC-Adresse angezeigt.
@@ -46,6 +46,7 @@ pip install python-eq3bt
 - Unter den Objekten in IOBroker folgenden Ordner erstellen:
 
 javascript.0.Thermometer.
+
 https://github.com/Schnup89/IOBroker_HABPanel_eq3_Thermostat/blob/master/objekte.jpg
 
 (( Fragt mich nicht warum ich Thermometer als Ordnername genommen habe, ich war Verwirrt :) ))
