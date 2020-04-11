@@ -20,6 +20,7 @@ Hardware:
 - per SSH auf den RPI-Verbinden
 - EINEN Thermostat in der nähe des RPI starten
 - expect installieren 
+
 sudo apt install expect
 **
 - BTLE scan druführen
