@@ -3,7 +3,7 @@
 <img src="https://github.com/Schnup89/IOBroker_HABPanel_eq3_Thermostat/blob/master/eq3-panel.jpg?raw=true" width="30%">
 
 Schritt für Schritt Anleitung um die EQ3-Thermostate via HabPanel, IOBroker und einem Raspberry PI zu steuern.
-Die Habpanel Webseite kann dann von SmartPhones sowie Laptop/PC's aufgerufen werden.
+Die Habpanel Webseite kann dann von Smartphones sowie Laptop/PC's aufgerufen werden.
 
 
 ## Voraussetzungen
