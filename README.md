@@ -17,7 +17,10 @@ Die Habpanel Webseite kann dann von Smartphones sowie Laptop/PC's aufgerufen wer
 -> Ihr könnt von dieser Anleitung das HABPanel-Design übernehmen (Ab Punkt 5), ihr müsst nur die Item-ID im HabPanel anpassen.
 
 
-<div class="text-white bg-red mb-2">
+
+<details>
+  <summary>Click to expand!</summary>
+  
 
 ## Voraussetzungen
 Bitte bemüht Google um die Installation und Konfiguration folgender Systeme durchzuführen
@@ -31,7 +34,7 @@ Hardware:
 
 
 ## 1. MAC-Adressen herausfinden
-
+<div class="text-white bg-red mb-2">
 - per SSH auf den RPI-Verbinden
 - EINEN Thermostat in der nähe des RPI starten
 - expect installieren 
@@ -73,7 +76,7 @@ https://github.com/Schnup89/IOBroker_HABPanel_eq3_Thermostat/blob/master/objekte
 - Passt die Namen der Räume an!!!
 - Script starten
 
-</div>
+</details>
 
 ## 5. HABPanel Ansicht anlegen
 
