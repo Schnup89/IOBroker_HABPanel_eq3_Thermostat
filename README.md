@@ -5,6 +5,19 @@
 Schritt für Schritt Anleitung um die EQ3-Thermostate via HabPanel, IOBroker und einem Raspberry PI zu steuern.
 Die Habpanel Webseite kann dann von Smartphones sowie Laptop/PC's aufgerufen werden.
 
+# Veraltet / Deprecated
+# Es steht euch nun ein Adapter zur Verfügung
+
+-> Stand heute, 15.04.2020 müsst ihr den Adapter manuell installieren, er ist noch nicht im offiziellen IOBroker repo zu finden.
+
+-> "Adapters"-Seite im IOBroker öffnen, oben auf die GITHub-Katze klicken "Adapter aus beliebiger Quelle" und die URL einfügen
+
+-> https://github.com/Schnup89/ioBroker.eq3-Thermostat
+
+-> Ihr könnt von dieser Anleitung das HABPanel-Design übernehmen (Ab Punkt 5), ihr müsst nur die Item-ID im HabPanel anpassen.
+
+
+
 
 ## Voraussetzungen
 Bitte bemüht Google um die Installation und Konfiguration folgender Systeme durchzuführen
