@@ -19,7 +19,7 @@ Die Habpanel Webseite kann dann von Smartphones sowie Laptop/PC's aufgerufen wer
 
 
 <details>
-  <summary>Click to expand!</summary>
+  <summary color="red">KLICK MICH - ALTE SCHRITTE ANZEIGEN</summary>
   
 
 ## Voraussetzungen
