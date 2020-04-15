@@ -17,7 +17,7 @@ Die Habpanel Webseite kann dann von Smartphones sowie Laptop/PC's aufgerufen wer
 -> Ihr könnt von dieser Anleitung das HABPanel-Design übernehmen (Ab Punkt 5), ihr müsst nur die Item-ID im HabPanel anpassen.
 
 
-
+<div class="text-white bg-red mb-2">
 
 ## Voraussetzungen
 Bitte bemüht Google um die Installation und Konfiguration folgender Systeme durchzuführen
@@ -73,6 +73,7 @@ https://github.com/Schnup89/IOBroker_HABPanel_eq3_Thermostat/blob/master/objekte
 - Passt die Namen der Räume an!!!
 - Script starten
 
+</div>
 
 ## 5. HABPanel Ansicht anlegen
 
