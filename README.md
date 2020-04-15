@@ -5,7 +5,7 @@
 Schritt für Schritt Anleitung um die EQ3-Thermostate via HabPanel, IOBroker und einem Raspberry PI zu steuern.
 Die Habpanel Webseite kann dann von Smartphones sowie Laptop/PC's aufgerufen werden.
 
-# Veraltet / Deprecated
+# 🔴 Veraltet / Deprecated
 # Es steht euch nun ein Adapter zur Verfügung
 
 -> Stand heute, 15.04.2020 müsst ihr den Adapter manuell installieren, er ist noch nicht im offiziellen IOBroker repo zu finden.
